@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpNet.Maps.Client", "RpNet.Maps.Client\RpNet.Maps.Client.csproj", "{C528B875-DB82-430B-ADC9-839620852ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpNet.Maps.Server", "RpNet.Maps.Server\RpNet.Maps.Server.csproj", "{E6D22F8F-EB52-4763-9808-354CC47DA836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C528B875-DB82-430B-ADC9-839620852ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C528B875-DB82-430B-ADC9-839620852ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C528B875-DB82-430B-ADC9-839620852ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C528B875-DB82-430B-ADC9-839620852ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D22F8F-EB52-4763-9808-354CC47DA836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D22F8F-EB52-4763-9808-354CC47DA836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D22F8F-EB52-4763-9808-354CC47DA836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D22F8F-EB52-4763-9808-354CC47DA836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17CA1B96-F4BB-409D-B857-0425DB2B3662}
+	EndGlobalSection
+EndGlobal
